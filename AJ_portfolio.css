@@ -1,0 +1,124 @@
+#wrapper{
+    background-color: #604B55;
+    width: 1000px;
+}
+body *{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial;
+}
+h1{
+    display: inline-block;
+    color: black;
+    padding-top: 5px;
+}
+h3{
+    background-color: #9897A1;
+    color: #CCC9C8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+h4{
+    color: #FDFAF8;
+    background-color: #9897A1;
+    padding: 10px;
+    margin: 0;
+}
+p{
+    color: black;
+    margin-bottom: 10px;
+}
+#header,.footer{
+    background-color: #CCC9C8;
+}
+h2{
+    display: inline-block;
+    margin-left: 400px;
+}
+#me{
+    width: 400px;
+    border: 5px gray solid;
+    display: inline-block;
+}
+#maincontent{
+    display: inline-block;
+    width: 500px;
+    height: 272px;
+    margin-left: 20px;
+    vertical-align: top;
+    background-color: #E7DEE8;
+}
+#whole{
+    padding: 15px;
+}
+#maincontent p{
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+#maincontent a{
+    color: black;
+}
+.subcontents{
+    display: inline-block;
+    width: 280px;
+    vertical-align: top;
+    background-color: #F3EEF3;
+    padding: 20px;
+}
+#lamode{
+    display: inline-block;
+    width: 280px;
+    height: 180px;
+}
+#family{
+    display: inline-block;
+    width: 280px;
+    height: 180px;
+}
+#five{
+    display: inline-block;
+    width: 280px;
+    height: 180px;
+}
+.smallpic{
+    width: 44px;
+    height: 44px;
+    display: inline-block;
+    padding: 4px;
+}
+button{
+    border-radius: 5px;
+    background-color:darkgreen; 
+    color: white
+    }
+.mini{
+    display: inline-block;
+    width: 20px;
+    height: 20px; 
+}
+a{
+    display: inline-block;
+    color: black;
+    text-align: center;
+}
+.footer ul li{
+    display: inline-block;
+    align-content: center;
+    font-style: italic;
+    color: black;
+    text-align: center;
+}
+.footer ul{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.footer p{
+    text-align: center;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+.bw{                                  
+    text-align: center;
+}
